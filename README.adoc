@@ -1,3 +1,7 @@
-= neo4j-developers-guide-to-knowledge-graphs
+= The Developer's Guide: How to Build a Knowledge Graph
 
-Files related to Neo4j's ebook The Developer's Guide to Knowledge Graphs
+Resources to accompany the e-book "The Developer's Guide: How to Build a Knowledge Graph" by Jennifer Reif, John Stegeman, and Damaso Sanoja. Download the free ebook https://neo4j.com/whitepapers/developers-guide-how-to-build-knowl[here^].
+
+== Repository Contents
+
+This repository contains four Northwind graph PDF files for loading unstructured data to Neo4j using the Neo4j https://llm-graph-builder.neo4jlabs.com/[Knowledge Graph Builder tool^].
